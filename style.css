@@ -1,0 +1,32 @@
+body{
+background-color: lightgrey; 
+font-family: Arial, Helvetica, sans-serif; 
+margin-left: 15%; 
+margin-right: 15%; 
+}
+.mainContainer{
+background-color: grey; 
+padding: 25px;
+}
+.header{
+background-color: white; 
+text-align: center;
+padding: 25px; 
+}
+.header h1{
+color: blue;
+}
+.header h3{
+color: darkblue;
+}
+.header img{
+width: 300px;
+}
+.container{
+background-color: white;
+margin-top: 4%; 
+padding: 25px;
+}
+.container h3{
+color: teal;
+}
