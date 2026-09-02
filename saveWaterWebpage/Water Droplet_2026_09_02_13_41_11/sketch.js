@@ -3,7 +3,7 @@ createCanvas(400,400)
 }
 
 function draw() {
-  background(255,255,254);
+  background(255,255,224);
   noStroke()
   fill("blue")
   circle(mouseX,mouseY,50)
